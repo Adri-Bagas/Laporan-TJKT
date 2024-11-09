@@ -37,8 +37,8 @@ export const actions: Actions = {
         event.cookies.set('AuthorizationToken', `Bearer ${token}`, {
             httpOnly: true,
             path: '/',
-            secure: true,
-            sameSite: 'strict',
+            secure: false,
+            sameSite: 'lax',
             maxAge: 60 * 60 * 8 // 8 hours
         });
 
