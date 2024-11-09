@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1730516508639,
+      "tag": "0000_needy_terror",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1730517554170,
+      "tag": "0001_misty_kabuki",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1730517585971,
+      "tag": "0002_acoustic_loners",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1730543305406,
+      "tag": "0003_ancient_ken_ellis",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1730543322465,
+      "tag": "0004_daily_felicia_hardy",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1730543506775,
+      "tag": "0005_magenta_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1730543976373,
+      "tag": "0006_talented_nekra",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1730696215404,
+      "tag": "0007_productive_sentinels",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1730974923467,
+      "tag": "0008_numerous_electro",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1731037818290,
+      "tag": "0009_silly_mesmero",
+      "breakpoints": true
+    }
+  ]
+}

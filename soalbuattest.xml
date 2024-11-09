@@ -1,0 +1,485 @@
+<quiz>
+    <question type="multichoice">
+        <name><text>Binary System</text></name>
+        <questiontext format="html">
+            <text>Di dalam sistem bilangan biner, angka yang digunakan adalah...</text>
+        </questiontext>
+        <answer fraction="100"><text>0 dan 1</text></answer>
+        <answer fraction="0"><text>0, 1, dan 2</text></answer>
+        <answer fraction="0"><text>0 sampai 9</text></answer>
+        <answer fraction="0"><text>1 dan 2</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>IP Address</text></name>
+        <questiontext format="html">
+            <text>Alamat IP digunakan untuk mengidentifikasi perangkat di...</text>
+        </questiontext>
+        <answer fraction="100"><text>Jaringan komputer</text></answer>
+        <answer fraction="0"><text>Perangkat keras</text></answer>
+        <answer fraction="0"><text>Hard disk</text></answer>
+        <answer fraction="0"><text>Kabel listrik</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>RAM</text></name>
+        <questiontext format="html">
+            <text>RAM adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>Random Access Memory</text></answer>
+        <answer fraction="0"><text>Read Access Memory</text></answer>
+        <answer fraction="0"><text>Random All Memory</text></answer>
+        <answer fraction="0"><text>Run Access Memory</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>SSD</text></name>
+        <questiontext format="html">
+            <text>SSD adalah jenis penyimpanan data yang lebih cepat dibandingkan...</text>
+        </questiontext>
+        <answer fraction="100"><text>HDD</text></answer>
+        <answer fraction="0"><text>RAM</text></answer>
+        <answer fraction="0"><text>CD-ROM</text></answer>
+        <answer fraction="0"><text>USB</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Programming Language</text></name>
+        <questiontext format="html">
+            <text>Bahasa pemrograman yang umum digunakan untuk pengembangan web adalah...</text>
+        </questiontext>
+        <answer fraction="100"><text>JavaScript</text></answer>
+        <answer fraction="0"><text>C++</text></answer>
+        <answer fraction="0"><text>Python</text></answer>
+        <answer fraction="0"><text>Ruby</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>HTML Stands For</text></name>
+        <questiontext format="html">
+            <text>HTML adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>HyperText Markup Language</text></answer>
+        <answer fraction="0"><text>Hyperlink Markup Language</text></answer>
+        <answer fraction="0"><text>HyperText Machine Language</text></answer>
+        <answer fraction="0"><text>Hyperlink Machine Language</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Firewall Function</text></name>
+        <questiontext format="html">
+            <text>Firewall digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Mengamankan jaringan</text></answer>
+        <answer fraction="0"><text>Mempercepat internet</text></answer>
+        <answer fraction="0"><text>Menggandakan kecepatan komputer</text></answer>
+        <answer fraction="0"><text>Mengelola file sistem</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>IoT Definition</text></name>
+        <questiontext format="html">
+            <text>IoT adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>Internet of Things</text></answer>
+        <answer fraction="0"><text>Internet of Technology</text></answer>
+        <answer fraction="0"><text>Innovation of Things</text></answer>
+        <answer fraction="0"><text>Integration of Technology</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>AI Definition</text></name>
+        <questiontext format="html">
+            <text>AI adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>Artificial Intelligence</text></answer>
+        <answer fraction="0"><text>Automated Intelligence</text></answer>
+        <answer fraction="0"><text>Advanced Intelligence</text></answer>
+        <answer fraction="0"><text>Analytical Intelligence</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>CSS Usage</text></name>
+        <questiontext format="html">
+            <text>CSS digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Mendesain tampilan website</text></answer>
+        <answer fraction="0"><text>Menulis konten website</text></answer>
+        <answer fraction="0"><text>Mengoptimalkan mesin pencari</text></answer>
+        <answer fraction="0"><text>Mengelola basis data</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Cloud Computing</text></name>
+        <questiontext format="html">
+            <text>Cloud computing memungkinkan pengguna untuk menyimpan data di...</text>
+        </questiontext>
+        <answer fraction="100"><text>Server jarak jauh melalui internet</text></answer>
+        <answer fraction="0"><text>Hard drive lokal</text></answer>
+        <answer fraction="0"><text>CD atau DVD</text></answer>
+        <answer fraction="0"><text>USB flash drive</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Linux vs Windows</text></name>
+        <questiontext format="html">
+            <text>Sistem operasi Linux dikenal karena...</text>
+        </questiontext>
+        <answer fraction="100"><text>Gratis dan open-source</text></answer>
+        <answer fraction="0"><text>Memiliki antarmuka grafis yang lebih baik</text></answer>
+        <answer fraction="0"><text>Lebih mudah digunakan daripada Windows</text></answer>
+        <answer fraction="0"><text>Memiliki lebih banyak dukungan perangkat keras</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>HTTP</text></name>
+        <questiontext format="html">
+            <text>HTTP adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>HyperText Transfer Protocol</text></answer>
+        <answer fraction="0"><text>HyperText Translation Protocol</text></answer>
+        <answer fraction="0"><text>HyperText Transfer Program</text></answer>
+        <answer fraction="0"><text>HyperLink Transfer Protocol</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>VPN Function</text></name>
+        <questiontext format="html">
+            <text>VPN digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyembunyikan identitas dan melindungi privasi online</text></answer>
+        <answer fraction="0"><text>Meningkatkan kecepatan internet</text></answer>
+        <answer fraction="0"><text>Mempercepat unduhan file</text></answer>
+        <answer fraction="0"><text>Melindungi perangkat dari virus</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Encryption Purpose</text></name>
+        <questiontext format="html">
+            <text>Enkripsi digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Melindungi data agar tidak dapat dibaca oleh pihak yang tidak berwenang</text></answer>
+        <answer fraction="0"><text>Meningkatkan kecepatan transfer data</text></answer>
+        <answer fraction="0"><text>Mengompresi data agar lebih kecil</text></answer>
+        <answer fraction="0"><text>Mempercepat proses komputasi</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Database Management</text></name>
+        <questiontext format="html">
+            <text>Sistem manajemen basis data (DBMS) digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Mengelola, menyimpan, dan mengakses data</text></answer>
+        <answer fraction="0"><text>Menulis dan mencetak laporan</text></answer>
+        <answer fraction="0"><text>Menghasilkan kode sumber program</text></answer>
+        <answer fraction="0"><text>Memantau status jaringan</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Artificial Intelligence Application</text></name>
+        <questiontext format="html">
+            <text>Aplikasi kecerdasan buatan (AI) dapat digunakan dalam...</text>
+        </questiontext>
+        <answer fraction="100"><text>Pengenalan suara, kendaraan otonom, dan analisis data besar</text></answer>
+        <answer fraction="0"><text>Hanya dalam pembuatan aplikasi game</text></answer>
+        <answer fraction="0"><text>Hanya dalam analisis keuangan</text></answer>
+        <answer fraction="0"><text>Untuk mempercepat akses ke internet</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Phishing Attack</text></name>
+        <questiontext format="html">
+            <text>Serangan phishing biasanya bertujuan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Mencuri informasi pribadi melalui email atau situs web palsu</text></answer>
+        <answer fraction="0"><text>Melindungi akun dari serangan peretasan</text></answer>
+        <answer fraction="0"><text>Mempercepat proses pengunduhan file</text></answer>
+        <answer fraction="0"><text>Memperbaiki kerusakan sistem komputer</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Artificial Neural Networks</text></name>
+        <questiontext format="html">
+            <text>Jaringan saraf tiruan (Artificial Neural Networks) digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Membantu dalam proses pembelajaran mesin dan pengenalan pola</text></answer>
+        <answer fraction="0"><text>Mengatur jadwal komputer</text></answer>
+        <answer fraction="0"><text>Mempercepat komputasi angka besar</text></answer>
+        <answer fraction="0"><text>Menyimpan data secara efisien</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Cybersecurity Importance</text></name>
+        <questiontext format="html">
+            <text>Keamanan dunia maya (cybersecurity) sangat penting untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Melindungi data dan sistem komputer dari ancaman peretasan</text></answer>
+        <answer fraction="0"><text>Menambah kecepatan akses internet</text></answer>
+        <answer fraction="0"><text>Mengurangi penggunaan perangkat keras</text></answer>
+        <answer fraction="0"><text>Menyederhanakan desain website</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>HTML Element for Links</text></name>
+        <questiontext format="html">
+            <text>Elemen HTML yang digunakan untuk membuat tautan adalah...</text>
+        </questiontext>
+        <answer fraction="100"><text>&lt;a&gt;</text></answer>
+        <answer fraction="0"><text>&lt;p&gt;</text></answer>
+        <answer fraction="0"><text>&lt;div&gt;</text></answer>
+        <answer fraction="0"><text>&lt;link&gt;</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is CSS?</text></name>
+        <questiontext format="html">
+            <text>Apa itu CSS?</text>
+        </questiontext>
+        <answer fraction="100"><text>Cascading Style Sheets</text></answer>
+        <answer fraction="0"><text>Computer Style Sheets</text></answer>
+        <answer fraction="0"><text>Creative Style Sheets</text></answer>
+        <answer fraction="0"><text>Color Style Sheets</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>IPv6</text></name>
+        <questiontext format="html">
+            <text>IPv6 menggantikan IPv4 karena...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyediakan lebih banyak alamat IP</text></answer>
+        <answer fraction="0"><text>Lebih cepat dalam pengiriman data</text></answer>
+        <answer fraction="0"><text>Lebih aman dalam komunikasi</text></answer>
+        <answer fraction="0"><text>Mudah dikonfigurasi</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>Cloud Storage</text></name>
+        <questiontext format="html">
+            <text>Cloud storage adalah layanan yang memungkinkan pengguna untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyimpan dan mengakses data melalui internet</text></answer>
+        <answer fraction="0"><text>Menyimpan data di perangkat lokal</text></answer>
+        <answer fraction="0"><text>Mengirim data melalui jaringan lokal</text></answer>
+        <answer fraction="0"><text>Menyandikan data dalam perangkat keras</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is Malware?</text></name>
+        <questiontext format="html">
+            <text>Apa itu malware?</text>
+        </questiontext>
+        <answer fraction="100"><text>Program berbahaya yang dirancang untuk merusak sistem komputer</text></answer>
+        <answer fraction="0"><text>Program yang mempercepat proses komputer</text></answer>
+        <answer fraction="0"><text>Perangkat lunak yang meningkatkan keamanan</text></answer>
+        <answer fraction="0"><text>Perangkat yang digunakan untuk mengelola data</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>USB Function</text></name>
+        <questiontext format="html">
+            <text>Fungsi utama USB adalah untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyalurkan data antara perangkat elektronik</text></answer>
+        <answer fraction="0"><text>Menjalankan sistem operasi</text></answer>
+        <answer fraction="0"><text>Menyambungkan perangkat keras ke komputer</text></answer>
+        <answer fraction="0"><text>Mempercepat koneksi internet</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Router?</text></name>
+        <questiontext format="html">
+            <text>Router digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyalurkan data antara jaringan yang berbeda</text></answer>
+        <answer fraction="0"><text>Menyambungkan perangkat ke jaringan lokal</text></answer>
+        <answer fraction="0"><text>Melindungi komputer dari virus</text></answer>
+        <answer fraction="0"><text>Menjalankan program antivirus</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Database?</text></name>
+        <questiontext format="html">
+            <text>Database adalah...</text>
+        </questiontext>
+        <answer fraction="100"><text>Sistem penyimpanan data terstruktur yang mudah diakses</text></answer>
+        <answer fraction="0"><text>Program yang digunakan untuk menjalankan aplikasi web</text></answer>
+        <answer fraction="0"><text>Perangkat keras untuk menyimpan data sementara</text></answer>
+        <answer fraction="0"><text>Jaringan komputer untuk transfer data</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Firewall?</text></name>
+        <questiontext format="html">
+            <text>Firewall digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Melindungi sistem komputer dari ancaman luar</text></answer>
+        <answer fraction="0"><text>Mempercepat koneksi internet</text></answer>
+        <answer fraction="0"><text>Mengelola koneksi Wi-Fi</text></answer>
+        <answer fraction="0"><text>Menambah kapasitas penyimpanan data</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Web Browser?</text></name>
+        <questiontext format="html">
+            <text>Web browser adalah perangkat lunak yang digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menjelajahi situs web di internet</text></answer>
+        <answer fraction="0"><text>Mengedit kode sumber aplikasi</text></answer>
+        <answer fraction="0"><text>Menulis program untuk perangkat keras</text></answer>
+        <answer fraction="0"><text>Menyimpan file secara lokal</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a VPN?</text></name>
+        <questiontext format="html">
+            <text>VPN digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyembunyikan alamat IP dan mengenkripsi lalu lintas internet</text></answer>
+        <answer fraction="0"><text>Menghubungkan perangkat ke jaringan lokal</text></answer>
+        <answer fraction="0"><text>Menambah kecepatan akses internet</text></answer>
+        <answer fraction="0"><text>Melindungi perangkat dari kerusakan fisik</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is RAM?</text></name>
+        <questiontext format="html">
+            <text>RAM digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyimpan data sementara yang dibutuhkan oleh sistem operasi dan aplikasi</text></answer>
+        <answer fraction="0"><text>Mempercepat proses pengunduhan file</text></answer>
+        <answer fraction="0"><text>Menambah kapasitas penyimpanan permanen</text></answer>
+        <answer fraction="0"><text>Menyimpan salinan cadangan data</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a URL?</text></name>
+        <questiontext format="html">
+            <text>URL adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>Uniform Resource Locator</text></answer>
+        <answer fraction="0"><text>Universal Resource Link</text></answer>
+        <answer fraction="0"><text>Universal Range Locator</text></answer>
+        <answer fraction="0"><text>Unified Resource Locator</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is an Operating System?</text></name>
+        <questiontext format="html">
+            <text>Sistem operasi digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menjalankan dan mengelola perangkat keras dan perangkat lunak komputer</text></answer>
+        <answer fraction="0"><text>Melindungi komputer dari virus</text></answer>
+        <answer fraction="0"><text>Menambahkan aplikasi baru ke komputer</text></answer>
+        <answer fraction="0"><text>Menghubungkan perangkat ke internet</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is HTML5?</text></name>
+        <questiontext format="html">
+            <text>HTML5 adalah versi terbaru dari bahasa markup yang digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Membangun dan menyusun halaman web</text></answer>
+        <answer fraction="0"><text>Mengoptimalkan kode untuk aplikasi desktop</text></answer>
+        <answer fraction="0"><text>Menyimpan data secara lokal pada komputer</text></answer>
+        <answer fraction="0"><text>Menambahkan fitur audio dan video ke dalam aplikasi mobile</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is Artificial Intelligence?</text></name>
+        <questiontext format="html">
+            <text>Kecerdasan buatan (AI) digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menciptakan mesin atau program yang dapat melakukan tugas yang biasanya membutuhkan kecerdasan manusia</text></answer>
+        <answer fraction="0"><text>Mempercepat pengolahan data besar</text></answer>
+        <answer fraction="0"><text>Menambah kecepatan akses internet</text></answer>
+        <answer fraction="0"><text>Melindungi perangkat dari ancaman peretasan</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a QR Code?</text></name>
+        <questiontext format="html">
+            <text>QR Code digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyimpan informasi yang dapat dipindai oleh perangkat untuk memperoleh data atau link</text></answer>
+        <answer fraction="0"><text>Menyimpan data gambar dalam format terkompresi</text></answer>
+        <answer fraction="0"><text>Menambah kapasitas penyimpanan perangkat mobile</text></answer>
+        <answer fraction="0"><text>Menambah kecepatan internet pada perangkat</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is Git?</text></name>
+        <questiontext format="html">
+            <text>Git adalah...</text>
+        </questiontext>
+        <answer fraction="100"><text>Sistem kontrol versi untuk melacak perubahan dalam kode sumber perangkat lunak</text></answer>
+        <answer fraction="0"><text>Program untuk mengompresi file data</text></answer>
+        <answer fraction="0"><text>Perangkat keras untuk menyimpan data proyek</text></answer>
+        <answer fraction="0"><text>Alat untuk mempercepat pengembangan aplikasi</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Blockchain?</text></name>
+        <questiontext format="html">
+            <text>Blockchain digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyimpan data secara aman dalam bentuk rantai blok yang tidak dapat diubah</text></answer>
+        <answer fraction="0"><text>Menyimpan file video dalam format terkompresi</text></answer>
+        <answer fraction="0"><text>Mempercepat transaksi online dengan mengenkripsi data pengguna</text></answer>
+        <answer fraction="0"><text>Mempermudah integrasi sistem antara perangkat keras dan perangkat lunak</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Cookie in Web Development?</text></name>
+        <questiontext format="html">
+            <text>Cookie dalam pengembangan web digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Menyimpan data kecil di perangkat pengguna untuk mempermudah pengalaman pengguna di situs web</text></answer>
+        <answer fraction="0"><text>Mempercepat waktu muat halaman web</text></answer>
+        <answer fraction="0"><text>Menyimpan data file sementara di server</text></answer>
+        <answer fraction="0"><text>Menjaga keamanan aplikasi web dari ancaman peretasan</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is Augmented Reality (AR)?</text></name>
+        <questiontext format="html">
+            <text>Augmented Reality (AR) adalah teknologi yang...</text>
+        </questiontext>
+        <answer fraction="100"><text>Memadukan objek digital dengan dunia nyata yang dilihat pengguna</text></answer>
+        <answer fraction="0"><text>Menyimpan objek tiga dimensi di dalam aplikasi mobile</text></answer>
+        <answer fraction="0"><text>Mempercepat rendering gambar pada komputer</text></answer>
+        <answer fraction="0"><text>Menambah dimensi layar komputer untuk aplikasi interaktif</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is an API?</text></name>
+        <questiontext format="html">
+            <text>API adalah singkatan dari...</text>
+        </questiontext>
+        <answer fraction="100"><text>Application Programming Interface, sebuah antarmuka untuk interaksi antar perangkat lunak</text></answer>
+        <answer fraction="0"><text>Advanced Programming Interface, alat untuk mempercepat proses pengkodean</text></answer>
+        <answer fraction="0"><text>Automated Process Integration, sistem otomatis untuk manajemen perangkat keras</text></answer>
+        <answer fraction="0"><text>Automated Processing Interface, untuk pengolahan data besar</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is 5G?</text></name>
+        <questiontext format="html">
+            <text>5G adalah generasi kelima dari teknologi...</text>
+        </questiontext>
+        <answer fraction="100"><text>Jaringan seluler yang menawarkan kecepatan internet lebih cepat</text></answer>
+        <answer fraction="0"><text>Protokol komunikasi untuk komunikasi antar perangkat IoT</text></answer>
+        <answer fraction="0"><text>Sistem untuk menghubungkan perangkat ke internet secara langsung</text></answer>
+        <answer fraction="0"><text>Protokol jaringan untuk konektivitas jarak jauh</text></answer>
+    </question>
+
+    <question type="multichoice">
+        <name><text>What is a Search Engine Algorithm?</text></name>
+        <questiontext format="html">
+            <text>Algoritma mesin pencari digunakan untuk...</text>
+        </questiontext>
+        <answer fraction="100"><text>Mengurutkan hasil pencarian berdasarkan relevansi</text></answer>
+        <answer fraction="0"><text>Meningkatkan kecepatan pengunduhan halaman web</text></answer>
+        <answer fraction="0"><text>Menambah kapasitas penyimpanan cloud</text></answer>
+        <answer fraction="0"><text>Mempercepat proses pengindeksan situs web</text></answer>
+    </question>
+</quiz>
