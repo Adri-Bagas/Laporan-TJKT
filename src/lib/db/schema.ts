@@ -53,7 +53,8 @@ export const teamsToPklReports = pgTable("teams_to_pkl_reports", {
   id:serial("id").primaryKey(),
   teamId: uuid('team_id').notNull().references(() => teams.teamId),
   pklReportId: uuid("pkl_report_id").notNull().references(() => pklReports.pklReportId),
-  status:text('status').notNull().default("PENDING")
+  status:text('status').notNull().default("PENDING"),
+  description: text('description')
 })
 
 export const teamsToPklReportsRelations = relations(teamsToPklReports, ({ one }) => ({

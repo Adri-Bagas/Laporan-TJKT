@@ -78,3 +78,18 @@ export const makeExisting = async (reportId: string, id: string) => {
 
     return null
 }
+
+export const makeNewAdmin = async (title: string, description: string) => {
+    const existingReports = await db.select().from(pklReports).where(eq(pklReports.title, title))
+
+	if (existingReports.length > 0) {
+		return 'Title already exists' ;
+	}
+
+    await db.insert(pklReports).values({
+        title,
+        description
+    });
+
+    return null
+}
